@@ -1,0 +1,4 @@
+git status (kiểm tra thay đổi)
+git add . (thêm)
+git commit -m "ghi nội dung sửa đổi nếu thích"
+git push origin master (lưu thay đổi)
